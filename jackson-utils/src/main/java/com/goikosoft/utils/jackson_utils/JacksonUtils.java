@@ -1,4 +1,4 @@
-package es.dail.utiles.jackson_utils;
+package com.goikosoft.utils.jackson_utils;
 
 import java.io.IOException;
 import java.util.ArrayList;

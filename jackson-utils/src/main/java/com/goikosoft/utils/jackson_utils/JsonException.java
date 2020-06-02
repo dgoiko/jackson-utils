@@ -1,4 +1,4 @@
-package es.dail.utiles.jackson_utils;
+package com.goikosoft.utils.jackson_utils;
 
 public class JsonException extends Exception {
     private static final long serialVersionUID = -877544845077121498L;
