@@ -3,7 +3,7 @@
 
   <groupId>com.goikosoft.utils</groupId>
   <artifactId>jackson-utils</artifactId>
-  <version>0.1.1-SNAPSHOT</version>
+  <version>0.1.1</version>
   <packaging>jar</packaging>
 
   <name>jackson-utils</name>
@@ -37,7 +37,7 @@
 		<connection>scm:git:${scm.url}</connection>
 		<developerConnection>scm:git:${scm.url}</developerConnection>
 		<url>${scm.url}</url>
-	  <tag>HEAD</tag>
+	  <tag>jackson-utils-0.1.1</tag>
   </scm>
 
 	<dependencies>
