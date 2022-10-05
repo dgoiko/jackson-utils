@@ -28,7 +28,7 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<jackson.version>2.10.1</jackson.version>
+		<jackson.version>2.12.6.1</jackson.version>
 
 		<scm.url>file:///D:\Proyectos\jackson\jackson-utils</scm.url>
 	</properties>
